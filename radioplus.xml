@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<element type="radio" group="Form" orderable="true">
+    <name>Radioplus</name>
+    <author>G. Arends</author>
+    <creationDate>Maart 2012</creationDate>
+    <copyright>Copyright (C) JP Result</copyright>
+    <authorEmail>galo@jpresult.nl</authorEmail>
+    <authorUrl>http://www.jpresult.nl</authorUrl>
+    <version>2.5.0</version>
+    <description>Radio button plus input field</description>
+</element>
